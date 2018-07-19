@@ -1,0 +1,29 @@
+{
+  "name": "vuejs-validation",
+  "description": "A Vue.js simple validation plugin.",
+  "author": "Gavin Brady Lynch",
+  "version": "0.0.1",
+  "license": "MIT",
+  "main": "validation.js",
+  "scripts": {
+    "build": "npm run test:style",
+    "test:style": "eslint *.js ./src/**/*.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavinlynch/vue-validation.git"
+  },
+  "keywords": [
+    "vue",
+    "vue.js",
+    "validation",
+    "plugin"
+  ],
+  "bugs": {
+    "url": "https://github.com/gavinlynch/vue-validation/issues"
+  },
+  "homepage": "https://github.com/gavinlynch/vue-validation#readme",
+  "devDependencies": {
+    "eslint": "^5.1.0"
+  }
+}

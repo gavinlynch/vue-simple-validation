@@ -1,0 +1,7 @@
+.*.swp
+._*
+*.log*
+.DS_Store
+.git
+.npmrc
+node_modules
